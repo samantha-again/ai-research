@@ -13,3 +13,7 @@ bold prediction:
 - self-driving cars are an opportunity for AR environments, as the passengers will be bored and slightly anxious
 - a cross-country trip via self-driving car will likely be broken down into 2 or 4 hour increments
 - corrals of self-driving electric cars will pop up, at rest stops and malls, so that families can easily switch vehicles at set points so as to not lose hours waiting on charging 
+
+- labor will not be replaced by robots as quickly as one might think; for this to happen, companies would need to replicate human skeletal systems, load bearing/balancing, fine motor movements with hands, as well as near-instanteous decision making capabilities 
+- for historical references, look at the breakdown of craftsman tasks such as silversmithing into factory assembly lines; repetitive tasks will be automated but human oversight will always be needed
+- for modern examples, look at the replacement of fast food cashier jobs with mobile and in-store iPad ordering systems; cooks are difficult to replace but cashiers get replaced quickly 
