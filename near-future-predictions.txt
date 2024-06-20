@@ -3,3 +3,13 @@
 - companies can leap forward by outsourcing about 70% of compute to data centers with dynamic programming techniques -> dynamic programming can solve P = NP by pre-calculating all possible paths, and then only the results of the chosen path will require net new computation on a local device
 - upcoming issues will be with latency between data centers and local devices, which will result in stalling the program entirely rather than a constant lag -> local devices will need fallback mechanisms for lost connections
 - data centers need to look at energy and carbon sustainability 
+
+
+- self-driving cars will become increasingly common; fully autonomous vehicles will likely need their own lanes on extant highways, similar to HOV lanes
+
+bold prediction:
+- by 2030, 50% of americans will have been a passenger in a self-driving car
+
+- self-driving cars are an opportunity for AR environments, as the passengers will be bored and slightly anxious
+- a cross-country trip via self-driving car will likely be broken down into 2 or 4 hour increments
+- corrals of self-driving electric cars will pop up, at rest stops and malls, so that families can easily switch vehicles at set points so as to not lose hours waiting on charging 
