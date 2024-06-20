@@ -17,3 +17,5 @@ bold prediction:
 - labor will not be replaced by robots as quickly as one might think; for this to happen, companies would need to replicate human skeletal systems, load bearing/balancing, fine motor movements with hands, as well as near-instanteous decision making capabilities 
 - for historical references, look at the breakdown of craftsman tasks such as silversmithing into factory assembly lines; repetitive tasks will be automated but human oversight will always be needed
 - for modern examples, look at the replacement of fast food cashier jobs with mobile and in-store iPad ordering systems; cooks are difficult to replace but cashiers get replaced quickly 
+
+- major bottleneck will be with the availability of raw resources used to manufacture semiconductor chips, and the pipeline to manufacture them
