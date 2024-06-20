@@ -1,0 +1,3 @@
+- AR/VR is about to hit an inflection point -> prior issue was that compute was too expensive
+- earlier headsets overheated and required a nearby desktop computer
+- companies can leap forward by outsourcing about 70% of compute to data centers with dynamic programming techniques -> dynamic programming can solve P = NP by pre-calculating all possible paths, and then only the results of the chosen path will require net new computation on a local device
