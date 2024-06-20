@@ -1,3 +1,5 @@
 - AR/VR is about to hit an inflection point -> prior issue was that compute was too expensive
 - earlier headsets overheated and required a nearby desktop computer
 - companies can leap forward by outsourcing about 70% of compute to data centers with dynamic programming techniques -> dynamic programming can solve P = NP by pre-calculating all possible paths, and then only the results of the chosen path will require net new computation on a local device
+- upcoming issues will be with latency between data centers and local devices, which will result in stalling the program entirely rather than a constant lag -> local devices will need fallback mechanisms for lost connections
+- data centers need to look at energy and carbon sustainability 
